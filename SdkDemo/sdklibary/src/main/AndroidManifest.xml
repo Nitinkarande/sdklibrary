@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.logicare.sdklibary">
+
+    <application>
+        <activity
+            android:name=".BottomNavigationActivity"
+            android:label="@string/title_activity_bottom_navigation"
+            android:theme="@style/AppTheme"></activity>
+    </application>
+
+</manifest>
